@@ -9,14 +9,12 @@
 <img align="right" alt="img" src="https://github.com/LuoPoJunZi/LuoPoJunZi/blob/main/img/ys-shuangzi.jpg" width="50%" height="auto" />
 
 
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [LuoPoJunZi](https://github.com/LuoPoJunZi) 🚀 *coming soon*
+####  Things I am currently working on: 
+- Complete a Master's degree in Physics  
+- Improve my personal [blog](https://blog.luopojunzi.com/) website 
+- Learn from experts' projects on GitHub
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 1 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
-
+####  Things I am challenging myself with:
+- Publish five SCI papers before graduation
+- Update my blog monthly
+- Find a girlfriend before graduation
