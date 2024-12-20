@@ -8,8 +8,6 @@
 
 <img align="right" alt="img" src="https://github.com/LuoPoJunZi/LuoPoJunZi/blob/main/img/ys-shuangzi.jpg" width="50%" height="auto" />
 
-
-
 ####  Things I am currently working on: 
 - Complete a Master's degree in Physics  
 - Improve my personal [blog](https://blog.luopojunzi.com/) website 
