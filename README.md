@@ -7,7 +7,6 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/LuoPoJunZi)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:luopojunzi@gmail.com)
 
----
 
 <img align="right" alt="Genshin Impact Twins" src="https://github.com/LuoPoJunZi/LuoPoJunZi/blob/main/img/ys-shuangzi.jpg" width="48%" />
 
