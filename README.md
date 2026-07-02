@@ -9,12 +9,20 @@
 
 <img align="right" alt="Genshin Impact Twins" src="https://github.com/LuoPoJunZi/LuoPoJunZi/blob/main/img/ys-shuangzi.jpg" width="48%" />
 
-#### 🔭 Things I am currently working on: 
-- 🎓 Complete a Master's degree in Physics 
-- 🌐 Improve my personal [blog](https://blog.luopojunzi.com/) website 
-- 💡 Learn from experts' projects on GitHub 
+#### 🔭 Things I worked on during 2023.09-2026.07:
+- 🎓 Complete a Master's degree in Physics ✅
+- 🌐 Improve my personal [blog](https://blog.luopojunzi.com/) website ✅
+- 💡 Learn from experts' projects on GitHub ✅
 
-#### 🎯 Things I am challenging myself with:
-- 🔬 Publish five SCI papers before graduation 
-- 🗓️ Update my blog monthly 
-- 🌹 Find a girlfriend before graduation
+#### 🎯 Things I challenged myself with during 2023.09-2026.07:
+- 🔬 Publish five SCI papers before graduation ❌
+- 🗓️ Update my blog monthly ❌
+- 🌹 Find a girlfriend before graduation ❌
+
+#### 🎯 Things I want to challenge myself with in the future:
+- 🚀 Build and release my own open-source projects
+- 📝 Update my blog regularly and improve its content quality
+- 💡 Learn more about AI, Linux, Docker, and full-stack development
+- 📖 Continue reading papers and improving my research ability
+- 🤝 Collaborate with excellent developers and researchers
+- ❤️ Meet someone special and build a meaningful relationship
